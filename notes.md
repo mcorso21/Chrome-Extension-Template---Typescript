@@ -1,2 +1,0 @@
-- Setting up Webpack with TS: https://developerhandbook.com/webpack/webpack-typescript-from-scratch/
-- Setting up Prettier/ESLint: https://medium.com/app-sapiens/how-to-make-vs-code-work-with-eslint-typescript-and-prettier-3deca7a28cb8
